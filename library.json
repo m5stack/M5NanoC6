@@ -1,0 +1,16 @@
+{
+  "name": "M5NanoC6",
+  "description": "Library for M5NanoC6 Board",
+  "keywords": "M5Stack M5NanoC6",
+  "authors": {
+    "name": "M5Stack",
+    "url": "http://www.m5stack.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m5stack/M5NanoC6.git"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
